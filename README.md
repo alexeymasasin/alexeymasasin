@@ -3,10 +3,10 @@
 ---
 
 <a href="#">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=react" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=codeSTACKr" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=codeSTACKr" />
 </a>
 
 ---
