@@ -1,7 +1,7 @@
 ### Hi there, I'm Alexey Masasin 👋
 
 ---
-![]http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=nord_dar
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=nord_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=react)]
 
