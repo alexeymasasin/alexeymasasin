@@ -1,5 +1,7 @@
 ### Hi there, I'm Alexey Masasin 👋
-[![Alexey Masasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeymasasin&hide=contribs,prs,stars)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 ## Tools and coding languages that I use
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
