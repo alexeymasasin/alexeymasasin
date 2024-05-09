@@ -1,5 +1,9 @@
 ### Hi there, I'm Alexey Masasin 👋
 
+I am a 21-year old man, Web-Dev student (from 2024) & musician
+
+Every day I work hard to make my dreams come true
+
 ---
 
 ## Tools and coding languages that I use
@@ -22,6 +26,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=react&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=react&hide_border=true)
-
----
-
