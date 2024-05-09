@@ -2,9 +2,9 @@
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=nord_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=darcula )
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=darcula )
 
 ---
 ## Tools and coding languages that I use
