@@ -1,8 +1,9 @@
 ### Hi there, I'm Alexey Masasin 👋
 
 ---
+![]http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=nord_dar
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=react)]
 
 ---
 ## Tools and coding languages that I use
