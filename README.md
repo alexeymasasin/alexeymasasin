@@ -3,10 +3,10 @@
 ---
 
 <a href="№">
-  <img height=140 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=react" />
+  <img height=180 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=react" />
 </a>
 <a href="№">
-  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=react" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=react" />
 </a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=react)
