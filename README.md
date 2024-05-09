@@ -6,7 +6,7 @@
   <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=react" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=react" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=react&card_width=320" />
 </a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=react)
