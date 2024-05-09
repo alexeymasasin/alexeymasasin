@@ -19,9 +19,9 @@
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=nord)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=gotham)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=nord)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=gotham)
 
 ---
 
