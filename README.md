@@ -1,14 +1,9 @@
 ### Hi there, I'm Alexey Masasin 👋
 
 ---
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=codeSTACKr)
 
-<a href="#">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=codeSTACKr" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=codeSTACKr" />
-</a>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=codeSTACKr)
 ---
 ## Tools and coding languages that I use
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
