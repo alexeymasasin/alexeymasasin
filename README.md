@@ -2,16 +2,12 @@
 
 ---
 
-<a href="№">
+<a href="#">
   <img height=170 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=react" />
 </a>
-<a href="№">
+<a href="#">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=react" />
 </a>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=react)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=react)
 
 ---
 ## Tools and coding languages that I use
