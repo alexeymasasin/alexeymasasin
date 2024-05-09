@@ -19,9 +19,9 @@
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=graywhite&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=react&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=graywhite&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=react&hide_border=true)
 
 ---
 
