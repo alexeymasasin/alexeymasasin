@@ -1,6 +1,8 @@
 ### Hi there, I'm Alexey Masasin 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## Tools and coding languages that I use
