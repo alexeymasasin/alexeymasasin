@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### Info
+## Info
 
 My name is Alexey, I'm a 21-year-old male, Web-Dev student (since 2024) from Russia. During this time I managed to study some technologies such as those listed below. I also tried BackEnd- and Telegram Bots Dev using Node.js, did freelance layout work, and launched a website for a leather goods store, which to this day brings a constant flow of customers to it's owner. In addition, I have an advanced (C1) level of English and some experience as a translator. I am also confident in editing software (Photoshop, Illustrator, Vegas Pro, MS Office).
 
@@ -24,9 +24,10 @@ In my free time I am a musician, video game and film buff. I love learning new s
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/puppeteer/puppeteer-original.svg" title="Puppeteer" alt="Puppeteer" width="30" height="30"/>&nbsp;
 
 ---
+
+## Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=react&hide_border=true)
 
