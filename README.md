@@ -1,8 +1,8 @@
-# Alexey Masasin
+# Hi there, my name is Alexey 👋
 
 **`Web-Dev Student`**
 
-### Hi there 👋
+### Info 👋
 
 I'm a 21-year-old male, Web-Dev student (since 2024). During this time I managed to study some technologies such as those listed below. I also tried BackEnd- and Telegram Bots Dev using Node.js, did freelance layout work, and launched a website for a leather goods store, which to this day brings a constant flow of customers to it's owner. In addition, I have an advanced (C1) level of English and some experience as a translator. I am also confident in editing software (Photoshop, Illustrator, Vegas Pro, MS Office).
 
