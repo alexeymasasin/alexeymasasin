@@ -1,4 +1,8 @@
-### Hi there, I'm Alexey Masasin 👋
+# Alexey Masasin
+
+**`Web-Dev Student & Musician`**
+
+### Hi there 👋
 
 I am a 21-year-old male, Web-Dev student (since 2024) & musician.
 
