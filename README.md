@@ -1,32 +1,77 @@
-# Hi there 👋
+<h1 align='center'>
+  Hi there 👋 I'm Alexey 👨‍💻
+</h1>
 
-My name is Alexey, I'm a 21-year-old male from Russia, Web-Dev student (since 2024). During this time I managed to study some technologies such as those listed below. I also tried BackEnd & Telegram-bot development using Node.js, did some freelance layout work, and launched a website for a leather goods store, which to this day brings a constant flow of customers to it's owner. In addition, I have an advanced (C1) level of English and some experience as a translator. I am also confident in editing software (Photoshop, Illustrator, Vegas Pro, MS Office).
+<h3 align='center'>
+  A FrontEnd developer from Russia.
+</h3>
 
-In my free time I am a musician, film and video-game buff. I LOVE learning new stuff and overcoming any difficulties associated with it. In addition, I always remain vigilant and rational, punctual and responsible person, regardless of the circumstances. And at the moment I am looking for my first IT-internship with sparkling eyes.
+<p align='center'>
+  <a href="mailto:alexeymasasin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;
+  <a href="https://t.me/alexeymasasin/">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
----
-
-## Tools and coding languages that I use
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby" alt="Gatsby" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain.svg" title="WebStorm" alt="WebStorm" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="30" height="30"/>&nbsp;
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexeymasasin&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 ---
 
-## Stats
+<h3 align='center'>
+  💻 My Main Tech Stack:
+  <br/><br/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</h3>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeymasasin&theme=react&hide_border=true)
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&layout=compact&theme=react&hide_border=true)
+<p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
+
+<p align='center'>
+  📫 How to reach me: <a href='mailto:alexeymasasin@gmail.com'>alexeymasasin@gmail.com</a>
+</p>
+
+<details>
+  <summary>📃 About Me</summary>
+
+## Education
+
+- 📖 **Web & Multimedia Development (09.02.07, Information Systems and Programming)**\
+  📆 **2024 - 2027**\
+  📍 **IT-Hub College** – Moscow, Russia
+
+- 💻 **Online Web-Dev Courses**\
+  📆 **2023 - 2024**\
+  🌐 **Stepik.org** – <a href="https://stepik.org/users/470705820/profile">Profile Page</a>
+
+## General
+
+My name is Alexey, I'm a 21-year-old male from Russia, Web-Dev student (since 2024).
+
+## Outside Interests
+
+In my free time I am a musician, film and video-game buff.
+
+</details>
