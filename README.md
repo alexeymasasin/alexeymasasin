@@ -10,7 +10,7 @@
   <a href="mailto:alexeymasasin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;
-  <a href="https://t.me/alexeymasasin/">
+  <a href="https://t.me/alexeymasasin/" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
@@ -44,10 +44,6 @@
 </h3>
 
 ---
-
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:alexeymasasin@gmail.com'>alexeymasasin@gmail.com</a>
