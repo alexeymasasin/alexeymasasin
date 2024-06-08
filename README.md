@@ -45,9 +45,13 @@
 
 ---
 
-<p align='center'>
-  📫 How to reach me: <a href='mailto:alexeymasasin@gmail.com'>alexeymasasin@gmail.com</a>
-</p>
+<h3 align='center'>How to reach me 📫</h3> 
+  <p align='center'>
+    - <a href='mailto:alexeymasasin@gmail.com'>alexeymasasin@gmail.com</a>
+    <br/>
+    - <a href='mailto:alexeymasasin@gmail.com'>t.me/alexeymasasin/</a>
+  </p>
+
 
 <details>
   <summary>📃 About Me</summary>
