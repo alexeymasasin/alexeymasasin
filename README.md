@@ -1,9 +1,9 @@
 <h1 align='center'>
-  Hi there 👋 I'm Alexey 👨‍💻
+  Hi there 👋 
 </h1>
 
 <h3 align='center'>
-  A FrontEnd developer from Russia.
+   I'm Alexey, a FrontEnd Developer from Russia 👨‍💻
 </h3>
 
 <p align='center'>
@@ -22,7 +22,7 @@
 ---
 
 <h3 align='center'>
-  💻 My Main Tech Stack:
+  My Main Tech Stack 💻
   <br/><br/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
