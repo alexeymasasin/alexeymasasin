@@ -49,12 +49,12 @@
   <p align='center'>
     - <a href='mailto:alexeymasasin@gmail.com'>alexeymasasin@gmail.com</a>
     <br/>
-    - <a href='mailto:alexeymasasin@gmail.com'>t.me/alexeymasasin/</a>
+    - <a href='https://t.me/alexeymasasin/'>t.me/alexeymasasin</a>
   </p>
 
 
 <details>
-  <summary>📃 About Me</summary>
+  <summary>About Me 📃</summary>
 
 ## Education
 
