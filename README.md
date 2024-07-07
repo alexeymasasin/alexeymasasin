@@ -59,12 +59,13 @@
 ## Education
 
 - 📖 **Web & Multimedia Development (09.02.07, Information Systems and Programming)**\
-  📆 **2024 - 2027**\
-  📍 **IT-Hub College** – Moscow, Russia
+  📆 **2024 - ...**\
+  📍 **MTI** – Moscow, Russia
 
 - 💻 **Online Web-Dev Courses**\
   📆 **2023 - 2024**\
-  🌐 **Stepik.org** – <a href="https://stepik.org/users/470705820/profile">Profile Page</a>
+  🌐 **Stepik** – <a href="https://stepik.org/users/470705820/profile">Profile Page</a>
+  🌐 **FreeCodeCamp** – <a href="https://www.freecodecamp.org/alexeymasasin">Profile Page</a>
 
 ## General
 
