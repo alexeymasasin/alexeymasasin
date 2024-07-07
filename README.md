@@ -58,18 +58,19 @@
 
 ## Education
 
-- 📖 **Web & Multimedia Development (09.02.07, Information Systems and Programming)**\
+- 📖 **Internet Technologies and Mobile Applications (09.03.03, Applied Computer Science)**\
   📆 **2024 - ...**\
   📍 **MTI** – Moscow, Russia
 
 - 💻 **Online Web-Dev Courses**\
-  📆 **2023 - 2024**\
+  📆 **2023 - ...**\
   🌐 **Stepik** – <a href="https://stepik.org/users/470705820/profile">Profile Page</a>
+  <br>
   🌐 **FreeCodeCamp** – <a href="https://www.freecodecamp.org/alexeymasasin">Profile Page</a>
 
 ## General
 
-My name is Alexey, I'm a 21-year-old male from Russia, Web-Dev student (since 2024).
+My name is Alexey, I'm a 21-year-old male from Russia, Web-Dev & CS student (since 2024).
 
 ## Outside Interests
 
