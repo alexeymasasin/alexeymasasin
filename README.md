@@ -55,9 +55,20 @@
 
 
 <details>
-  <summary>About Me 📃</summary>
+  <summary>About Me ℹ️</summary>
 
-## Education
+  ## General
+  
+  My name is Alexey, I'm a 21-year-old male from Russia, Web-Dev & CS student (since 2024).
+  
+  ## Outside Interests
+  
+  In my free time I am a musician, film and video-game buff.
+
+</details>
+
+<details>
+  <summary>Education 🎓</summary>
 
 - 📖 **Internet Technologies and Mobile Applications (09.03.03, Applied Computer Science)**\
   📆 **2024 - ...**\
@@ -68,13 +79,23 @@
   🌐 **Stepik** – <a href="https://stepik.org/users/470705820/profile">Profile Page</a>
   <br>
   🌐 **FreeCodeCamp** – <a href="https://www.freecodecamp.org/alexeymasasin">Profile Page</a>
+  
+</details>
 
-## General
+<details>
+  <summary>Tools 🔧</summary>
 
-My name is Alexey, I'm a 21-year-old male from Russia, Web-Dev & CS student (since 2024).
-
-## Outside Interests
-
-In my free time I am a musician, film and video-game buff.
+  ### PC Specs 🖥️
+  - CPU: AMD Ryzen 5 7600X
+  - GPU: NVidia GeForce RTX 4060
+  - RAM: G.Skill Tridend Z5 Neo RGB 32Gb (2x16) 5600Mhz
+  - Storage #1: Kingston SNV2S 1024Gb
+  - Storage #2: ADATA Legend 850 512Gb
+  - CPU Cooler: DeepCool AG500 BK ARGB
+  - Motherboard: MSI PRO B650-S WiFi
+  - Power Supply: Cougar XTC 750W
+  - Case: Cougar Duoface RGB
 
 </details>
+
+
