@@ -7,9 +7,7 @@
 </h3>
 
 <p align='center'>
-  <a href="mailto:alexeymasasin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
-  </a>&nbsp;
+  <a href="mailto:alexeymasasin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/alexeymasasin/" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
@@ -22,7 +20,7 @@
 ---
 
 <h3 align='center'>
-  Frontend Tech Stack 💻
+  Tech Stack 💻
   <br/><br/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -53,18 +51,20 @@
     - <a href='https://t.me/alexeymasasin/'>t.me/alexeymasasin</a>
   </p>
 
+---
 
 <details>
-  <summary>About Me ℹ️</summary>
+  <summary>About ℹ️</summary>
 
-  ## General
+  ### General
   
-  My name is Alexey, I'm a 21-year-old male from Russia, Web-Dev & CS student (since 2024).
+  My name is Alexey, I'm a 22-year-old male from Russia, Web-Development & Applied Computer Science student (since 2024).
   
-  ## Outside Interests
+  ### Outside Interests
   
-  In my free time I am a musician, film and video-game buff.
-
+  In my free time I am an amateur musician, film/video-game/animal buff, and finally, a good guy :)
+  
+  ---
 </details>
 
 <details>
@@ -79,7 +79,8 @@
   🌐 **Stepik** – <a href="https://stepik.org/users/470705820/profile">Profile Page</a>
   <br>
   🌐 **FreeCodeCamp** – <a href="https://www.freecodecamp.org/alexeymasasin">Profile Page</a>
-  
+
+  ---
 </details>
 
 <details>
@@ -96,6 +97,21 @@
   - Power Supply: Cougar XTC 750W
   - Case: Cougar Duoface RGB
 
+  ### OS 💿
+  - Arch Linux
+  - Pop!_OS
+  - Windows 11
+
+  ### Devices 🖱️
+  - Mouse: Razer Viper Ultimate
+  - Keyboard: Razer Huntsman V2 Tenkeyless (Clicky Optical Purple)
+
+  ### Code Editors ⌨️
+  - Visual Studio Code
+  - Nvim, AstroNvim
+  - WebStorm, PhpStorm
+
+  ---
 </details>
 
 
