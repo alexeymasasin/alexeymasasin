@@ -14,7 +14,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexeymasasin&show_icons=true&count_private=true&theme=github_dark&hide_border=true" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexeymasasin&show_icons=true&count_private=true&bg_color=0f0e15&title_color=915fff&text_color=f5faff&icon_color=915fff&border_color=53ffb1&border_radius=12" width="350"></a>
 </p>
 
 ---
@@ -80,7 +80,7 @@
   <br>
   🌐 **FreeCodeCamp** – <a href="https://www.freecodecamp.org/alexeymasasin">Profile Page</a>
 
-  ---
+---
 </details>
 
 <details>
