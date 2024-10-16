@@ -1,74 +1,107 @@
-<h1 align='center'>
-  Hi there 👋 
-</h1>
+<div align="center">
 
-<h3 align='center'>
-   I'm Alexey, a FrontEnd Developer from Russia 👨‍💻
-</h3>
+Hello, I am **Alexey Masasin**, a 22-year-old junior **web-developer** based in Russia <br> <sub>web-development & applied computer science student (since 2024)<sub>
 
-<p align='center'>
-  <a href="mailto:alexeymasasin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/alexeymasasin/" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+
+[![Telegram](https://img.shields.io/badge/Telegram-211e2f?style=for-the-badge&logo=telegram&logoColor=211e2f&labelColor=915fff)](https://t.me/alexeymasasin) [![Gmail](https://img.shields.io/badge/Gmail-211e2f?style=for-the-badge&logo=gmail&logoColor=211e2f&labelColor=915fff)](mailto:alexeymasasin@gmail.com)
+
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexeymasasin&show_icons=true&count_private=true&bg_color=0f0e15&title_color=915fff&text_color=f5faff&icon_color=915fff&ring_color=53ffb1&border_color=53ffb1&border_radius=0&include_all_commits" width="350"></a>
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexeymasasin&show_icons=true&count_private=true&bg_color=0f0e15&title_color=915fff&text_color=f5faff&icon_color=915fff&ring_color=53ffb1&border_color=53ffb1&border_radius=12&include_all_commits" width="350"></a>
-</p>
+</div>
 
----
+## 
 
-<h3 align='center'>
-  Tech Stack 💻
-  <br/><br/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <br/>
+Currently looking for a job or to collaborate on open source projects
+
+- My portfolio: [**alexeymasasin**](https://alexeymasasin.me)
+- Email me: [**alexeymasasin@gmail.com**](mailto:alexeymasasin@gmail.com)
+- Check out my **[color themes](https://github.com/alexeymasasin/RCW-120)** and **[dotfiles](https://github.com/alexeymasasin/dotfiles)**
+
+<table border="0">
+  <tr>
+  <td>Frontend</td> 
+  <td>
+    <img src="https://img.shields.io/badge/Next-211e2f?style=for-the-badge&logo=next.js&logoColor=211e2f&labelColor=915fff" />
+    <img src="https://img.shields.io/badge/React-211e2f?style=for-the-badge&logo=react&logoColor=211e2f&labelColor=915fff" />
+    <img src="https://img.shields.io/badge/Redux-211e2f?style=for-the-badge&logo=redux&logoColor=211e2f&labelColor=915fff" />
+    <img src="https://img.shields.io/badge/TypeScript-211e2f?style=for-the-badge&logo=typescript&logoColor=211e2f&labelColor=915fff" />
+    <img src="https://img.shields.io/badge/JavaScript-211e2f?style=for-the-badge&logo=javascript&logoColor=211e2f&labelColor=915fff" />
+    <img src="https://img.shields.io/badge/html-211e2f.svg?style=for-the-badge&logo=html5&logoColor=211e2f&labelColor=915fff" alt="HTML5">
+    <img src="https://img.shields.io/badge/css-211e2f.svg?style=for-the-badge&logo=css3&logoColor=211e2f&labelColor=915fff" alt="CSS3">
+    <img src="https://img.shields.io/badge/markdown-211e2f.svg?style=for-the-badge&logo=markdown&logoColor=211e2f&labelColor=915fff" alt="Markdown">
+  </td>
+  </tr>
   
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</h3>
+  <tr>  
+    <td>Backend</td>
+    <td>
+      <img src="https://img.shields.io/badge/node.js-211e2f?logo=node.js&logoColor=211e2f&labelColor=53ffb1&style=for-the-badge" alt="Node.js">
+      <img src="https://img.shields.io/badge/php-211e2f.svg?style=for-the-badge&logo=php&logoColor=211e2f&labelColor=53ffb1" alt="Php">
+      <img src="https://img.shields.io/badge/bash-211e2f.svg?style=for-the-badge&logo=gnu-bash&logoColor=211e2f&labelColor=53ffb1" alt="Bash">
+      <img src="https://img.shields.io/badge/MongoDB-211e2f.svg?style=for-the-badge&logo=mongodb&logoColor=211e2f&labelColor=53ffb1" alt="MongoDB">
+    </td>
+  </tr>
 
----
+  <tr>
+    <td>Libraries</td>
+    <td>
+      <img src="https://img.shields.io/badge/tailwindcss-211e2f.svg?style=for-the-badge&logo=tailwind-css&logoColor=211e2f&labelColor=915fff" alt="TailwindCSS">
+      <img src="https://img.shields.io/badge/framer%20motion-211e2f.svg?style=for-the-badge&logo=framer&logoColor=211e2f&labelColor=915fff" alt="Framer-Motion">
+      <img src="https://img.shields.io/badge/radix%20ui-211e2f.svg?style=for-the-badge&logo=radix-ui&logoColor=211e2f&labelColor=915fff" alt=RadixUI>
+      <img src="https://img.shields.io/badge/axios-211e2f?&style=for-the-badge&logo=axios&logoColor=211e2f&labelColor=915fff" />
+      <img src="https://img.shields.io/badge/react%20icons-211e2f.svg?style=for-the-badge&logo=react&logoColor=211e2f&labelColor=915fff" alt=React-Icons>
+      <img src="https://img.shields.io/badge/React_Router-211e2f?style=for-the-badge&logo=react-router&logoColor=211e2f&labelColor=915fff" alt="React Router">
+    </td>
+  </tr>
+  
+  <tr>
+  <td>Host</td>
+    <td>
+      <img src="https://img.shields.io/badge/vercel-211e2f.svg?style=for-the-badge&logo=vercel&logoColor=211e2f&labelColor=915fff" alt="Vercel">
+      <img src="https://img.shields.io/badge/github%20pages-211e2f?logo=github&logoColor=211e2f&labelColor=915fff&style=for-the-badge" alt="Github Pages">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Tools</td>
+    <td>
+      <img src="https://img.shields.io/badge/git-211e2f.svg?style=for-the-badge&logo=git&logoColor=211e2f&labelColor=53ffb1" alt="Git">
+      <img src="https://img.shields.io/badge/NPM-211e2f.svg?style=for-the-badge&logo=npm&logoColor=211e2f&labelColor=53ffb1" alt="NPM">
+      <img src="https://img.shields.io/badge/figma-211e2f.svg?style=for-the-badge&logo=figma&logoColor=211e2f&labelColor=53ffb1" alt="Figma"> 
+      <img src="https://img.shields.io/badge/vite-211e2f.svg?style=for-the-badge&logo=vite&logoColor=211e2f&labelColor=53ffb1" alt="vite">
+      <img src="https://img.shields.io/badge/PowerShell-211e2f.svg?style=for-the-badge&logo=powershell&logoColor=211e2f&labelColor=53ffb1" alt="PowerShell"> 
+    </td>
+  </tr>
 
-<h3 align='center'>How to reach me 📫</h3> 
-  <p align='center'>
-    - <a href='mailto:alexeymasasin@gmail.com'>alexeymasasin@gmail.com</a>
-    <br/>
-    - <a href='https://t.me/alexeymasasin/'>t.me/alexeymasasin</a>
-  </p>
+  <tr>
+    <td>Code Editors</td>
+    <td>
+      <img src="https://img.shields.io/badge/NeoVim-211e2f.svg?&style=for-the-badge&logo=neovim&logoColor=211e2f&labelColor=915fff" />
+      <img src="https://img.shields.io/badge/WebStorm-211e2f?style=for-the-badge&logo=WebStorm&logoColor=211e2f&labelColor=915fff" />
+      <img src="https://img.shields.io/badge/phpstorm-211e2f?style=for-the-badge&logo=phpstorm&logoColor=211e2f&labelColor=915fff" />
+      <img src="https://img.shields.io/badge/VSCode-211e2f?style=for-the-badge&logo=visual-studio-code&logoColor=211e2f&labelColor=915fff" />
+    </td>
+  </tr>
 
----
+  <tr>
+    <td>OS</td>
+    <td>
+      <img src="https://img.shields.io/badge/Arch%20Linux-211e2f?logo=arch-linux&logoColor=211e2f&labelColor=53ffb1&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Pop!_OS-211e2f?style=for-the-badge&logo=Pop!_OS&logoColor=211e2f&labelColor=53ffb1" />
+      <img src="https://img.shields.io/badge/Ubuntu-211e2f?style=for-the-badge&logo=ubuntu&logoColor=211e2f&labelColor=53ffb1" />
+      <img src="https://img.shields.io/badge/Windows%2011-211e2f.svg?style=for-the-badge&logo=Windows%2011&logoColor=211e2f&labelColor=53ffb1" />
+    </td>
+  </tr>
+
+</table>
+
+<!--- 
+In my free time I am an amateur musician, film/video-game/animal buff, and finally, a good guy :)
 
 <details>
-  <summary>About ℹ️</summary>
-
-  ### General
-  
-  My name is Alexey, I'm a 22-year-old male from Russia, Web-Development & Applied Computer Science student (since 2024).
-  
-  ### Outside Interests
-  
-  In my free time I am an amateur musician, film/video-game/animal buff, and finally, a good guy :)
-  
-  ---
-</details>
-
-<details>
-  <summary>Education 🎓</summary>
+  <summary>Education</summary>
 
 - 📖 **Internet Technologies and Mobile Applications (09.03.03, Applied Computer Science)**\
   📆 **2024 - ...**\
@@ -80,13 +113,13 @@
   <br>
   🌐 **FreeCodeCamp** – <a href="https://www.freecodecamp.org/alexeymasasin">Profile Page</a>
 
----
 </details>
 
 <details>
-  <summary>Tools 🔧</summary>
-
-  ### PC Specs 🖥️
+  <summary>PC Specs</summary>
+  
+  <br>
+  
   - CPU: AMD Ryzen 5 7600X
   - GPU: NVidia GeForce RTX 4060
   - RAM: G.Skill Tridend Z5 Neo RGB 32Gb (2x16) 5600Mhz
@@ -96,22 +129,6 @@
   - Motherboard: MSI PRO B650-S WiFi
   - Power Supply: Cougar XTC 750W
   - Case: Cougar Duoface RGB
-
-  ### OS 💿
-  - Arch Linux
-  - Pop!_OS
-  - Windows 11
-
-  ### Devices 🖱️
-  - Mouse: Razer Viper Ultimate
-  - Keyboard: Razer Huntsman V2 Tenkeyless (Clicky Optical Purple)
-
-  ### Code Editors ⌨️
-  - Visual Studio Code
-  - Nvim, AstroNvim
-  - WebStorm, PhpStorm
-
-  ---
 </details>
 
-
+--->
