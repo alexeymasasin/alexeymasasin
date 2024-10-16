@@ -33,7 +33,7 @@ Currently looking for a job or to collaborate on open source projects
     <img src="https://img.shields.io/badge/markdown-211e2f.svg?style=for-the-badge&logo=markdown&logoColor=211e2f&labelColor=915fff" alt="Markdown">
   </td>
   </tr>
-  
+  <tr></tr>
   <tr>  
     <td>Backend</td>
     <td>
@@ -43,7 +43,7 @@ Currently looking for a job or to collaborate on open source projects
       <img src="https://img.shields.io/badge/MongoDB-211e2f.svg?style=for-the-badge&logo=mongodb&logoColor=211e2f&labelColor=53ffb1" alt="MongoDB">
     </td>
   </tr>
-
+  <tr></tr>
   <tr>
     <td>Libraries</td>
     <td>
@@ -55,7 +55,7 @@ Currently looking for a job or to collaborate on open source projects
       <img src="https://img.shields.io/badge/React_Router-211e2f?style=for-the-badge&logo=react-router&logoColor=211e2f&labelColor=915fff" alt="React Router">
     </td>
   </tr>
-  
+  <tr></tr>
   <tr>
   <td>Host</td>
     <td>
@@ -63,7 +63,7 @@ Currently looking for a job or to collaborate on open source projects
       <img src="https://img.shields.io/badge/github%20pages-211e2f?logo=github&logoColor=211e2f&labelColor=915fff&style=for-the-badge" alt="Github Pages">
     </td>
   </tr>
-  
+  <tr></tr>
   <tr>
     <td>Tools</td>
     <td>
@@ -74,7 +74,7 @@ Currently looking for a job or to collaborate on open source projects
       <img src="https://img.shields.io/badge/PowerShell-211e2f.svg?style=for-the-badge&logo=powershell&logoColor=211e2f&labelColor=53ffb1" alt="PowerShell"> 
     </td>
   </tr>
-
+  <tr></tr>
   <tr>
     <td>Code Editors</td>
     <td>
@@ -84,7 +84,7 @@ Currently looking for a job or to collaborate on open source projects
       <img src="https://img.shields.io/badge/VSCode-211e2f?style=for-the-badge&logo=visual-studio-code&logoColor=211e2f&labelColor=915fff" />
     </td>
   </tr>
-
+  <tr></tr>
   <tr>
     <td>OS</td>
     <td>
