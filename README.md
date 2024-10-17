@@ -54,6 +54,7 @@ Currently looking for a job or to collaborate on open source projects
       <img src="https://img.shields.io/badge/axios-211e2f?&style=for-the-badge&logo=axios&logoColor=211e2f&labelColor=915fff" />
       <img src="https://img.shields.io/badge/react%20icons-211e2f.svg?style=for-the-badge&logo=react&logoColor=211e2f&labelColor=915fff" alt=React-Icons>
       <img src="https://img.shields.io/badge/React_Router-211e2f?style=for-the-badge&logo=react-router&logoColor=211e2f&labelColor=915fff" alt="React Router">
+      <img src="https://img.shields.io/badge/i18next-211e2f?style=for-the-badge&logo=i18next&logoColor=211e2f&labelColor=915fff" alt="i18Next">
     </td>
   </tr>
   
@@ -72,6 +73,7 @@ Currently looking for a job or to collaborate on open source projects
       <img src="https://img.shields.io/badge/NPM-211e2f.svg?style=for-the-badge&logo=npm&logoColor=211e2f&labelColor=915fff" alt="NPM">
       <img src="https://img.shields.io/badge/figma-211e2f.svg?style=for-the-badge&logo=figma&logoColor=211e2f&labelColor=915fff" alt="Figma"> 
       <img src="https://img.shields.io/badge/vite-211e2f.svg?style=for-the-badge&logo=vite&logoColor=211e2f&labelColor=915fff" alt="vite">
+      <img src="https://img.shields.io/badge/CRA-211e2f.svg?style=for-the-badge&logo=createreactapp&logoColor=211e2f&labelColor=915fff" alt="CRA">
       <img src="https://img.shields.io/badge/PowerShell-211e2f.svg?style=for-the-badge&logo=powershell&logoColor=211e2f&labelColor=915fff" alt="PowerShell"> 
     </td>
   </tr>
@@ -82,7 +84,7 @@ Currently looking for a job or to collaborate on open source projects
       <img src="https://img.shields.io/badge/NeoVim-211e2f.svg?&style=for-the-badge&logo=neovim&logoColor=211e2f&labelColor=53ffb1" />
       <img src="https://img.shields.io/badge/WebStorm-211e2f?style=for-the-badge&logo=WebStorm&logoColor=211e2f&labelColor=53ffb1" />
       <img src="https://img.shields.io/badge/phpstorm-211e2f?style=for-the-badge&logo=phpstorm&logoColor=211e2f&labelColor=53ffb1" />
-      <img src="https://img.shields.io/badge/VSCode-211e2f?style=for-the-badge&logo=visual-studio-code&logoColor=211e2f&labelColor=53ffb1" />
+      <img src="https://img.shields.io/badge/VSCode-211e2f?style=for-the-badge&logo=vscodium&logoColor=211e2f&labelColor=53ffb1" />
     </td>
   </tr>
   
@@ -92,7 +94,7 @@ Currently looking for a job or to collaborate on open source projects
       <img src="https://img.shields.io/badge/Arch%20Linux-211e2f?logo=arch-linux&logoColor=211e2f&labelColor=915fff&style=for-the-badge" />
       <img src="https://img.shields.io/badge/Pop!_OS-211e2f?style=for-the-badge&logo=Pop!_OS&logoColor=211e2f&labelColor=915fff" />
       <img src="https://img.shields.io/badge/Ubuntu-211e2f?style=for-the-badge&logo=ubuntu&logoColor=211e2f&labelColor=915fff" />
-      <img src="https://img.shields.io/badge/Windows%2011-211e2f.svg?style=for-the-badge&logo=Windows%2011&logoColor=211e2f&labelColor=915fff" />
+      <img src="https://img.shields.io/badge/Windows%2011-211e2f.svg?style=for-the-badge&logo=codeblocks&logoColor=211e2f&labelColor=915fff" />
     </td>
   </tr>
 
