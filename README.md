@@ -6,7 +6,8 @@ Hello, I am **Alexey Masasin**, a 22-year-old junior **web-developer** based in 
 [![Telegram](https://img.shields.io/badge/Telegram-211e2f?style=for-the-badge&logo=telegram&logoColor=211e2f&labelColor=915fff)](https://t.me/alexeymasasin) [![Gmail](https://img.shields.io/badge/Gmail-211e2f?style=for-the-badge&logo=gmail&logoColor=211e2f&labelColor=915fff)](mailto:alexeymasasin@gmail.com)
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexeymasasin&show_icons=true&count_private=true&bg_color=0f0e15&title_color=915fff&text_color=f5faff&icon_color=915fff&ring_color=53ffb1&border_color=53ffb1&border_radius=0&include_all_commits" width="350"></a>
+  <a href="#"><img height=155 src="https://github-readme-stats.vercel.app/api?username=alexeymasasin&show_icons=true&text_bold=false&count_private=true&bg_color=0f0e15&title_color=915fff&text_color=f5faff&icon_color=915fff&ring_color=53ffb1&border_color=53ffb1&border_radius=0&include_all_commits&card_width=320"></a>
+  <a href="#"><img height=155 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&hide_title=true&count_private=true&bg_color=0f0e15&title_color=915fff&text_color=f5faff&icon_color=915fff&ring_color=53ffb1&border_color=53ffb1&border_radius=0&include_all_commits&hide_progress=false&card_width=0&hide=css"/></a>
 </p>
 
 </div>
