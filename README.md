@@ -100,25 +100,32 @@ Currently looking for a job or to collaborate on open source projects
 
 </table>
 
-<!--- 
-In my free time I am an amateur musician, film/video-game/animal buff, and finally, a good guy :)
-
 <details>
   <summary>Education</summary>
 
-- 📖 **Internet Technologies and Mobile Applications (09.03.03, Applied Computer Science)**\
-  📆 **2024 - ...**\
-  📍 **MTI** – Moscow, Russia
-
-- 💻 **Online Web-Dev Courses**\
-  📆 **2023 - ...**\
-  🌐 **Stepik** – <a href="https://stepik.org/users/470705820/profile">Profile Page</a>
-  <br>
-  🌐 **FreeCodeCamp** – <a href="https://www.freecodecamp.org/alexeymasasin">Profile Page</a>
-
+  <table>
+    <tr>
+      <td colspan=3 align="center">Degree</td>
+    </tr>
+    <tr>
+      <td align="center">MTI<br><sup>(Moscow, Russia)</sup></td>
+      <td align="center">Internet Technologies and Mobile Applications<br>(09.03.03, Applied Computer Science)</td>
+      <td align="center">Bachelor course (2024 - ...)</td>
+    </tr>
+    <tr>
+      <td colspan=3 align="center">Online Courses</td>
+    </tr>
+      <td align="center">Stepik</td>
+      <td align="center" colspan=2><a href="https://stepik.org/users/470705820/profile">Profile Page</a></td>
+    </tr>
+    </tr>
+      <td align="center">FreeCodeCamp</td>
+      <td align="center" colspan=2><a href="https://www.freecodecamp.org/alexeymasasin">Profile Page</a>
+    </tr>
+  </table>
 </details>
 
-<details>
+<!-- <details>
   <summary>PC Specs</summary>
   
   <br>
