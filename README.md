@@ -102,7 +102,7 @@ Currently looking for a job or to collaborate on open source projects
 
 <details>
   <summary>Education</summary>
-
+  <br>
   <table>
     <tr>
       <td colspan=3 align="center">Degree</td>
@@ -116,29 +116,99 @@ Currently looking for a job or to collaborate on open source projects
       <td colspan=3 align="center">Online Courses</td>
     </tr>
       <td align="center">Stepik</td>
-      <td align="center" colspan=2><a href="https://stepik.org/users/470705820/profile">Profile Page</a></td>
+      <td colspan=2 align="left"><a href="https://stepik.org/users/470705820/profile">Profile Page</a></td>
     </tr>
     </tr>
       <td align="center">FreeCodeCamp</td>
-      <td align="center" colspan=2><a href="https://www.freecodecamp.org/alexeymasasin">Profile Page</a>
+      <td colspan=2 align="left"><a href="https://www.freecodecamp.org/alexeymasasin">Profile Page</a>
     </tr>
   </table>
 </details>
 
-<!-- <details>
-  <summary>PC Specs</summary>
-  
+<details>
+  <summary>More about me</summary>
   <br>
-  
-  - CPU: AMD Ryzen 5 7600X
-  - GPU: NVidia GeForce RTX 4060
-  - RAM: G.Skill Tridend Z5 Neo RGB 32Gb (2x16) 5600Mhz
-  - Storage #1: Kingston SNV2S 1024Gb
-  - Storage #2: ADATA Legend 850 512Gb
-  - CPU Cooler: DeepCool AG500 BK ARGB
-  - Motherboard: MSI PRO B650-S WiFi
-  - Power Supply: Cougar XTC 750W
-  - Case: Cougar Duoface RGB
+  <p>In addition to all of the above, in my free time from programming I am an amateur musician, film buff and video-gamer. Feel free to hit me up for any reason, I'm a friendly person :)</p>
 </details>
 
---->
+<details>
+  <summary>PC Specs</summary>
+  <br>
+  <table border="0" >
+    <th>Type</th>
+    <th>Model</th>
+    <th>Specs</th>
+    
+  <tr>
+    <td>CPU</td> 
+    <td>
+      <img src="https://img.shields.io/badge/amd_ryzen_5_7600x-211e2f?style=for-the-badge&logo=amd&logoColor=211e2f&labelColor=915fff" />
+    </td>
+    <td>AM5, 6 cores, 12 threads, 105W TDP, 5.3Ghz, L3 cache 32MB</td>
+  </tr>
+  
+  <tr>  
+    <td>GPU</td>
+    <td>
+      <img src="https://img.shields.io/badge/NVidia_GeForce_RTX_4060TI-211e2f.svg?style=for-the-badge&logo=nvidia&logoColor=211e2f&labelColor=53ffb1">
+    </td>
+    <td>GDDR6 8GB, 2535MHz, Dual-slot</td>
+  </tr>
+
+  <tr>
+    <td>RAM</td> 
+    <td>
+      <img src="https://img.shields.io/badge/G.Skill_Tridend_Z5_Neo_RGB-211e2f?style=for-the-badge&logo=gsk&logoColor=211e2f&labelColor=915fff" />
+    </td>
+    <td>DDR5 32GB (2x16), 5600Mhz</td>
+  </tr>
+
+  <tr>  
+    <td>SSD #1</td>
+    <td>
+      <img src="https://img.shields.io/badge/Kingston_SNV2S-211e2f.svg?style=for-the-badge&logo=kingstontechnology&logoColor=211e2f&labelColor=53ffb1">
+    </td>
+    <td>M.2 1024Gb, PCI-E 4.0, 3500MB/s read, 2100MB/s write</td>
+  </tr>
+
+  <tr>
+    <td>SSD #2</td> 
+    <td>
+      <img src="https://img.shields.io/badge/ADATA_Legend_850-211e2f?style=for-the-badge&logo=teratail&logoColor=211e2f&labelColor=915fff" />
+    </td>
+    <td>M.2 512Gb, PCI-E 4.0, 5000MB/s read, 4500MB/s write</td>
+  </tr>
+
+  <tr>  
+    <td>Board</td>
+    <td>
+      <img src="https://img.shields.io/badge/MSI_PRO_B650S_WiFi-211e2f.svg?style=for-the-badge&logo=msibusiness&logoColor=211e2f&labelColor=53ffb1">
+    </td>
+    <td>ATX, DDR5, AMD B650 AM5, SATA-Raid</td>
+  </tr>
+
+  <tr>
+    <td>Cooler</td> 
+    <td>
+      <img src="https://img.shields.io/badge/DeepCool_AG500_BK_ARGB-211e2f?style=for-the-badge&logo=deepcool&logoColor=211e2f&labelColor=915fff" />
+    </td>
+    <td>5 pipes, 240W, 1850 rpm, ARGB 120mm</td>
+  </tr>
+
+  <tr>  
+    <td>PSU</td>
+    <td>
+      <img src="https://img.shields.io/badge/Cougar_XTC_750-211e2f.svg?style=for-the-badge&logo=apachetomcat&logoColor=211e2f&labelColor=53ffb1">
+    </td>
+    <td>750W, OCP/OPP/UVP/SCP/OVP, OEM, ATX, 80+ Standart</td>
+  </tr>
+
+  <tr>
+    <td>Case</td> 
+    <td>
+      <img src="https://img.shields.io/badge/Cougar_Duoface_RGB-211e2f?style=for-the-badge&logo=apachetomcat&logoColor=211e2f&labelColor=915fff" />
+    </td>
+    <td>Midi-Tower, 49x39x23</td>
+  </tr>
+</table>
+</details>
