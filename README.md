@@ -20,6 +20,8 @@ Hello, I am **Alexey Masasin**, a 22-year-old junior **web-developer** based in 
 - Email me: [**alexeymasasin@gmail.com**](mailto:alexeymasasin@gmail.com)
 - Check out my **[color themes](https://github.com/alexeymasasin/RCW-120)** and **[dotfiles](https://github.com/alexeymasasin/dotfiles)**
 
+##
+
 <details>
 <summary>Skills</summary>
 <br>
@@ -204,7 +206,7 @@ Hello, I am **Alexey Masasin**, a 22-year-old junior **web-developer** based in 
     <td>
       <img src="https://img.shields.io/badge/Cougar_XTC_750-211e2f.svg?style=for-the-badge&logo=apachetomcat&logoColor=211e2f&labelColor=53ffb1">
     </td>
-    <td>750W, OCP/OPP/UVP/SCP/OVP, OEM, ATX, 80+ Standart</td>
+    <td>750W, OCP/OPP/UVP/SCP/OVP, OEM, ATX, 80+ Standard</td>
   </tr>
 
   <tr>
