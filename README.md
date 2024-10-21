@@ -1,25 +1,28 @@
-<div align="center">
+<div>
 
 Hello, I am **Alexey Masasin**, a 22-year-old junior **web-developer** based in Russia <br> <sub>web-development & applied computer science student (since 2024)<sub>
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-211e2f?style=for-the-badge&logo=telegram&logoColor=211e2f&labelColor=915fff)](https://t.me/alexeymasasin) [![Gmail](https://img.shields.io/badge/Gmail-211e2f?style=for-the-badge&logo=gmail&logoColor=211e2f&labelColor=915fff)](mailto:alexeymasasin@gmail.com)
 
-<p align="center">
+<p>
   <a href="#"><img height=155 src="https://github-readme-stats.vercel.app/api?username=alexeymasasin&show_icons=true&text_bold=false&count_private=true&bg_color=0f0e15&title_color=915fff&text_color=f5faff&icon_color=915fff&ring_color=53ffb1&border_color=53ffb1&border_radius=0&include_all_commits&card_width=320"></a>
-  <!-- <a href="#"><img height=155 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&hide_title=true&count_private=true&bg_color=0f0e15&title_color=915fff&text_color=f5faff&icon_color=915fff&ring_color=53ffb1&border_color=53ffb1&border_radius=0&include_all_commits&hide_progress=false&card_width=0&hide=css"/></a> -->
+  <a href="#"><img height=155 src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeymasasin&hide_title=true&count_private=true&bg_color=0f0e15&title_color=915fff&text_color=f5faff&icon_color=915fff&ring_color=53ffb1&border_color=53ffb1&border_radius=0&include_all_commits&hide_progress=false&card_width=0&hide=css"/></a>
 </p>
 
 </div>
 
 ## 
 
-Currently looking for a job or to collaborate on open source projects
+🎆 Currently looking for a job or to collaborate on open source projects
 
-- My portfolio: [**alexeymasasin**](https://alexeymasasin.me)
+- My portfolio: [**alexeymasasin**](https://alexeymasasin.info)
 - Email me: [**alexeymasasin@gmail.com**](mailto:alexeymasasin@gmail.com)
 - Check out my **[color themes](https://github.com/alexeymasasin/RCW-120)** and **[dotfiles](https://github.com/alexeymasasin/dotfiles)**
 
+<details>
+<summary>Skills</summary>
+<br>
 <table border="0">
   <tr>
   <td>Frontend</td> 
@@ -99,6 +102,7 @@ Currently looking for a job or to collaborate on open source projects
   </tr>
 
 </table>
+</details>
 
 <details>
   <summary>Education</summary>
@@ -128,7 +132,7 @@ Currently looking for a job or to collaborate on open source projects
 <details>
   <summary>More about me</summary>
   <br>
-  <p>In addition to all of the above, in my free time from programming I am an amateur musician, film buff and video-gamer. Feel free to hit me up for any reason, I'm a friendly person :)</p>
+  <p>In addition to all of the above, in my free time from programming I am an amateur musician, film buff and video-gamer. Feel free to hit me up for any reason, I'm a very friendly person :)</p>
 </details>
 
 <details>
