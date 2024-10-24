@@ -1,6 +1,6 @@
 <div>
 
-Hello, I am **Alexey Masasin**, a 22-year-old junior **web-developer** based in Russia <br> <sub>web-development & applied computer science student (since 2024)<sub>
+Hello, I am **Alexey Masasin**, a 22-year-old **web-developer** based in Russia <br> <sub>web-development & applied computer science student (since 2024)<sub>
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-211e2f?style=for-the-badge&logo=telegram&logoColor=211e2f&labelColor=915fff)](https://t.me/alexeymasasin) [![Gmail](https://img.shields.io/badge/Gmail-211e2f?style=for-the-badge&logo=gmail&logoColor=211e2f&labelColor=915fff)](mailto:alexeymasasin@gmail.com)
