@@ -16,7 +16,7 @@ Hello, I am **Alexey Masasin**, a 22-year-old **web-developer** based in Russia 
 
 🎆 Currently looking for a job or to collaborate on open source projects
 
-- My portfolio: [**alexeymasasin**](https://) (In progress)
+- My portfolio: [**alexeymasasin**](https://alexeymasasin.github.io/portfolio) (In progress)
 - Email me: [**alexeymasasin@gmail.com**](mailto:alexeymasasin@gmail.com)
 - Check out my **[color themes](https://github.com/alexeymasasin/RCW-120)** and **[dotfiles](https://github.com/alexeymasasin/dotfiles)**
 
